@@ -57,4 +57,4 @@ ngrok http 1228
 
 ### 5. **Запуск портала**
 - **Ссылка на streamlit**: https://tadpole-innocent-usually.ngrok-free.app
-- ![Демо](https://raw.githubusercontent.com/kostopr4v/The-Illusion-Of-Security/демо.gif)
+- ![Демо](демо.gif)
