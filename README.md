@@ -4,7 +4,7 @@
 
 ## Установка
 
-Перед началом работы убедитесь, что у вас установлен Python версии 3.8 и выше. Необходимые библиотеки можно установить с помощью `pip`:
+Необходимые библиотеки можно установить с помощью `pip`:
 
 ```bash
 pip install torch transformers langchain langchain_community faiss-gpu pandas tqdm fastapi xformers sentense-transformers
@@ -36,8 +36,6 @@ print(answer)
 
 ```bash
 uvicorn api:app —port 1337
-```
-```bash
 tuna http 1337
 ```
 Пример запроса
@@ -51,8 +49,6 @@ print(f"{response.text}")
 ### 3. **Запуск Streamlit**
 ```bash
 streamlit run streamlit_app.py --server.port 1228
-```
-```bash
 ngrok http 1228
 ```
 
