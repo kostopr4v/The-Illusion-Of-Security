@@ -56,5 +56,5 @@ ngrok http 1228
 - **Ссылка на телеграм бота**: https://t.me/sashamatveikostyabot
 
 ### 5. **Запуск портала**
-- **Ссылка на телеграм бота**: https://tadpole-innocent-usually.ngrok-free.app
+- **Ссылка на streamlit**: https://tadpole-innocent-usually.ngrok-free.app
 - ![Демо](https://raw.githubusercontent.com/kostopr4v/The-Illusion-Of-Security/демо.gif)
