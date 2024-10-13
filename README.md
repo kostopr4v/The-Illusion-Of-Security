@@ -7,7 +7,7 @@
 Необходимые библиотеки можно установить с помощью `pip`:
 
 ```bash
-pip install torch transformers langchain langchain_community faiss-gpu pandas tqdm fastapi xformers sentense-transformers
+pip install torch transformers langchain langchain_community faiss-gpu pandas tqdm fastapi xformers sentence-transformers
 ```
 
 
